@@ -1,0 +1,47 @@
+username - MyatMinKhant23
+email 	 - myat.khant23@gmail.com
+password - Mmk@23052002
+
+
+Step 1 :	Git Download
+Step 2 :	Git Installation
+Step 3 :	Github Account Creaction
+Step 4 :	Git Respository
+Step 5 :	A File To Upload on github
+Step 6 :	Git Command Line 
+
+cd path -	Go to Directory
+
+First Time ( New Repository )
+			git init
+			git add .
+			git config global user.email "usermail"
+			git config global user.name "usermail"
+
+			git commit -m "first commit"
+			git remote add origin https://github.com/MyatMinKhant23/Sample.git
+			git push -u origin master
+
+(New Respository For New Project)
+			git init
+			git add .
+			git config globoal user.email "useremail"
+			git config global user.name "username"
+
+			git commit -m "first commit"
+			git remote add origin https://github.com/MyatMinKhant23/Sample.git
+			git push -u origin master
+
+(Old Respository For Existing Project)
+			
+			git add
+			git commit -m "second commit"
+			git push
+
+(Existing Project To Other Laptop)
+
+			git pull
+
+(Other Person Project To Own Laptop)
+
+			git clone https://github.com/MyatMinKhant23/Sample.git
