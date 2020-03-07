@@ -16,7 +16,7 @@ First Time ( New Repository )
 			git init
 			git add .
 			git config global user.email "usermail"
-			git config global user.name "usermail"
+			git config global user.name "username"
 
 			git commit -m "first commit"
 			git remote add origin https://github.com/MyatMinKhant23/Sample.git
